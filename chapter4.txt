@@ -1,0 +1,1 @@
+HI ejmin this is your first time working with git
